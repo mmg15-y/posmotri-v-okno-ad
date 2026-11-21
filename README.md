@@ -1,1 +1,1 @@
-https://mmg15-y.github.io/posmotri-v-okno-ad/
+https://github.com/mmg15-y/posmotri-v-okno-ad
